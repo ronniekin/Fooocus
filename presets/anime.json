@@ -1,5 +1,5 @@
 {
-    "default_model": "AAM XL Anime Mix",
+    "default_model": "Animagine XL V3",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -38,7 +38,7 @@
     ],
     "default_aspect_ratio": "896*1152",
     "checkpoint_downloads": {
-        "AAM XL Anime Mix": "https://huggingface.co/Lykon/AAM_XL_AnimeMix_Turbo/resolve/main/AAM_XL_HalfTurbo.safetensors"
+        "Animagine XL V3": "https://civitai.com/api/download/models/293564?type=Model&format=SafeTensor&size=full&fp=fp32"
     },
     "embeddings_downloads": {},
     "lora_downloads": {},
